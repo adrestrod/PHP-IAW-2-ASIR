@@ -8,4 +8,3 @@ elseif ($num < 50)
     echo "El número " . $num . " es menor que 50";
 else
     echo "El número " . $num . "es igual a 50";
-?>
