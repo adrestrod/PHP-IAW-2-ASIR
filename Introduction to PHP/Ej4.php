@@ -12,5 +12,3 @@ echo strtoupper($cad2);
 echo trim($cad2, "or");
 echo strchr($cad4, 111);
 echo strcmp($cad3, $cad5);
-
-
